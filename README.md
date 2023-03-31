@@ -153,7 +153,7 @@ Please cite the following paper if this repo helps your research:
   title={StreamYOLO: Real-time Object Detection for Streaming Perception},
   author={Yang, Jinrong and Liu, Songtao and Li, Zeming and Li, Xiaoping and Sun, Jian},
   journal={arXiv preprint arXiv:2207.10433},
-  year={2022}
+  year={2022}1565959849
 }
 ```
 
